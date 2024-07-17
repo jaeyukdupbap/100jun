@@ -82,3 +82,5 @@ Q.idea/sonarlint/securityhotspotstore/5/1/5136218f6b1f047f6460c72ee3e8506fcf4737
 Q.idea/sonarlint/securityhotspotstore/e/a/eafcbf360a73273d840ed5600afe24db721b029f,8\6\8697038f8c708f5f6f0a013c98d7e031e858bc12
 Å
 Q.idea/sonarlint/securityhotspotstore/d/c/dc0def045a36fc52b0b69fc2176f65cbec591f38,a\8\a865dd552c2c17e76b0160cb8d4c1e3167fa5c5f
+?
+src/_15969.java,f\6\f66262bcb41ea4949b3049dbb41d5eda443278c2
